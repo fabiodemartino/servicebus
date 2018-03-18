@@ -1,0 +1,8 @@
+C:\Projects\service bus\Servicebus\bin\Debug\Servicebus.exe.config
+C:\Projects\service bus\Servicebus\bin\Debug\Servicebus.exe
+C:\Projects\service bus\Servicebus\bin\Debug\Servicebus.pdb
+C:\Projects\service bus\Servicebus\bin\Debug\Microsoft.ServiceBus.dll
+C:\Projects\service bus\Servicebus\bin\Debug\Microsoft.ServiceBus.xml
+C:\Projects\service bus\Servicebus\obj\Debug\Servicebus.csprojResolveAssemblyReference.cache
+C:\Projects\service bus\Servicebus\obj\Debug\Servicebus.exe
+C:\Projects\service bus\Servicebus\obj\Debug\Servicebus.pdb
