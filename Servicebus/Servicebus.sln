@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicebus", "Servicebus.csproj", "{7248FAF8-AFFA-4566-B7E3-C986B57F0340}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender.csproj", "{7248FAF8-AFFA-4566-B7E3-C986B57F0340}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
